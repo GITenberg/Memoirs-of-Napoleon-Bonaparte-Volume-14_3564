@@ -1,5 +1,5 @@
 _repo: Memoirs-of-Napoleon-Bonaparte-Volume-14_3564
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   creator:
     editor:
@@ -42,5 +42,6 @@ subjects:
 - !lcc 'DC'
 - !lcsh 'Private secretaries -- France -- Biography'
 - !lcsh 'Bourrienne, Louis Antoine Fauvelet de, 1769-1834'
+- GITenberg
 title: Memoirs of Napoleon Bonaparte — Volume 14
 url: http://www.gutenberg.org/ebooks/3564
